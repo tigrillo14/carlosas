@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Azteca 13" tvg-logo="http://51.222.43.170:36995/images/8def2843fadfd3790868e362f6e8c509.png" group-title="CANALES FHD",FHD | Azteca 13
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263448
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Las Estrellas" tvg-logo="http://51.222.43.170:36995/images/ad3cbe1f12299f6305ca583565e2077c.png" group-title="CANALES FHD",FHD | Las Estrellas
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263287
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Las Estrellas -2" tvg-logo="http://51.222.43.170:36995/images/ad3cbe1f12299f6305ca583565e2077c.png" group-title="CANALES FHD",FHD | Las Estrellas -2
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263524
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Canal 5" tvg-logo="http://51.222.43.170:36995/images/0d6153fa47180b1f05502af544cc65fb.png" group-title="CANALES FHD",FHD | Canal 5
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263434
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Azteca 7" tvg-logo="http://51.222.43.170:36995/images/42eb14e424068868e6880fc45879a068.png" group-title="CANALES FHD",FHD | Azteca 7
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263435
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Imagen Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4p5ckDiAyV-jx1l26wKdoMuOvg7b_7UeICX3WfvmbW2p9X-GXI6KUPoIPchejtIK9ZC0&usqp=CAU" group-title="CANALES FHD",FHD | Imagen Tv
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263439
+#EXTINF:-1 tvg-id="" tvg-name="FHD | FORO TV" tvg-logo="http://51.222.43.170:36995/images/0c8809121e1afc1d1fd05654108a4408.png" group-title="CANALES FHD",FHD | FORO TV
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263443
+#EXTINF:-1 tvg-id="" tvg-name="FHD | AXN" tvg-logo="http://51.222.43.170:36995/images/b84d6f609d26e6cf4ceb64fefcdca036.png" group-title="CANALES FHD",FHD | AXN
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263277
+#EXTINF:-1 tvg-id="" tvg-name="FHD | A&E" tvg-logo="http://51.222.43.170:36995/images/bb582472dfb6c3561be6fd393d5abc13.jpg" group-title="CANALES FHD",FHD | A&E
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263279
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Comedy Central" tvg-logo="http://51.222.43.170:36995/images/e7278498c1c9a782dbd7a5764aa86309.png" group-title="CANALES FHD",FHD | Comedy Central
+http://51.222.43.170:36995/A9/udk2wCLG7txY/263450
